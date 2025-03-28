@@ -1,8 +1,9 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Veni-Vici!*
 
-Submitted by: **Your Name Here**
+Submitted by: **Saurav Rijal**
 
-This web app: **insert description**
+This web app: Trippin' on Cats is a fun web app that helps users discover random cat breeds using The Cat API.
+It displays one cat at a time with its name, origin, weight, lifespan, and a cute image.
 
 Time spent: **X** hours spent in total
 
@@ -45,14 +46,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/gallery/veni-veci-sgP7ooS)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+img src = https://imgur.com/gallery/veni-veci-sgP7ooS
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video Walkthrough : https://imgur.com/gallery/veni-veci-sgP7ooS
+
 
 ## Notes
 
